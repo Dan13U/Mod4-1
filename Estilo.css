@@ -1,0 +1,40 @@
+/* Estilo general del cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    color: #333;
+}
+
+/* Estilo de los encabezados principales */
+h1, h2, h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Estilo de las listas desordenadas */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Estilo de los elementos de lista */
+li {
+    margin-bottom: 10px;
+}
+
+/* Estilo de los elementos de lista anidados */
+ul ul {
+    list-style-type: circle;
+    margin-left: 20px;
+}
+
+/* Estilo para los elementos en negrita dentro de listas */
+strong {
+    font-weight: bold;
+}
+
+/* Estilo de los párrafos */
+p {
+    margin-bottom: 15px;
+}
